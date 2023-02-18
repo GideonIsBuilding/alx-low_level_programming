@@ -8,13 +8,10 @@
 int main(void)
 {
 	int a = 97, z = 122;
-	do
-	{
+	do{
 		putchar(a);
 		a++;
-	}while (a <= z);
-	
+	} while (a <= z);
 	putchar('\n');
-	
 	return (0);
 }
