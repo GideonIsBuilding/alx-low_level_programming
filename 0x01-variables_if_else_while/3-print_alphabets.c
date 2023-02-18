@@ -13,12 +13,11 @@ int main(void)
 		putchar(a);
 		a++;
 	} while (a <= z);
-	
 	a = 65, z = 90;
 	do {
 		putchar(a);
 		a++;
-	} while (a <= z );
+	} while (a <= z);
 	putchar('\n');
-        return (0);
+	return (0);
 }
