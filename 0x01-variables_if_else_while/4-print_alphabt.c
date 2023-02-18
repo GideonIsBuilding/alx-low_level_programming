@@ -7,11 +7,11 @@
  */
 int main(void)
 {
-        int a = 97, z = 122;
+	int a = 97, z = 122;
 
 	while (a <= z)
 	{
-		if ( a != 101 && a != 113)
+		if (a != 101 && a != 113)
 			putchar(a);
 		a++;
 	}
