@@ -1,10 +1,12 @@
 #include "main.h"
 
 /**
- * print_sign - prints +, 0, - when n is 
+ * print_sign - prints +, 0, - when n is
  * greater than, less than, or equals 0
  *
- * Return (0) Always.
+ * @n: The character in ASCII code
+ *
+ * Return: 0 for zero, 1 for positive, -1 for the rest.
  */
 int print_sign(int n)
 {
@@ -24,4 +26,4 @@ int print_sign(int n)
 		return (-1);
 	}
 	_putchar('\n');
-}	
+}
