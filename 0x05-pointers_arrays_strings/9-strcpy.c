@@ -19,4 +19,5 @@ char *_strcpy(char *dest, char *src)
 			break;
 		count++;
 	}
+	return (dest);
 }
