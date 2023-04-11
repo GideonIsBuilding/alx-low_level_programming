@@ -1,10 +1,10 @@
 #include "main.h"
-#include <sttdio.h>
+#include <stdio.h>
 
 /**
  * clear_bit - sets the value of a bit to 0.
- * at a given index.
- * @n: pointer of an unsigned long int.
+ * 
+ * @n: points to unsigned integer.
  * @index: index of the bit in question.
  *
  * Return: 1 if the code runs.
