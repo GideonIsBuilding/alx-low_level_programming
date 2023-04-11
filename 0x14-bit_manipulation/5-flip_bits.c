@@ -4,8 +4,8 @@
  * flip_bits - returns the required amount of bits
  * required to flip to go from one number 
  * the other
- * @n: number one.
- * @m: number two.
+ * @n: first number.
+ * @m: second number.
  *
  * Return: number of bits.
  */
