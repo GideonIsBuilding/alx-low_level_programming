@@ -7,7 +7,7 @@
  * @n: pointer of an unsigned long int.
  * @index: index of the bit.
  *
- * Return: returns 1 if it runs, -1 if 
+ * Return: returns 1 if it runs, -1 if i.
  * here's an issue.
  */
 
